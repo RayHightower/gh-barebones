@@ -1,0 +1,5 @@
+gh-barebones
+===
+
+Experiments with GitHub pages, prep for Explorer session. 
+
